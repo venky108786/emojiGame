@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  padding: 20px;
+  box-shadow: 10px 5px 10px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.game-logo {
+  height: 50px;
+  width: 50px;
+  color: #ffffff;
+}
+.game-logo-para {
+  color: #ffffff;
+}
+.Score-container {
+  display: flex;
+  flex-direction: row;
+}
+.score {
+  color: #ffffff;
+  margin-left: 10px;
+}
